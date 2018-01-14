@@ -16,8 +16,8 @@ The user can control
 * Try different combinations of propotions of training data and k!  What leads to the most misclassifications?
 
 # "Internal Links"
-* [Code on github]()
-* [Pitch on gitbub]()
+* [Code on github](https://github.com/trwil/IrisKNN)
+* [Pitch on github]()
 
 # External Links
 * [Information about the Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set)
